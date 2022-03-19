@@ -17,4 +17,9 @@ Or even multiple filters
 
 
 ## Summary
-While the current site is quite interactive, it could stand some additional development.  The addition of a "Reset" or "Clear" button would aid the user in clearing the current filter selections and initiate a new search. From a visual standpoint, perhaps some additonal color formatting would make the entire site more visually appealing.
+While the current site is quite interactive, it could benefit from some additional development.  To initiate a new search, the user must currently clear out all the input fields. This means potentially multiple clicks by the user to get to a clean form. 
+
+###  Recommendations
+* The addition of a "Reset" or "Clear" button would aid the user in clearing the current filter selections and initiate a new search. 
+
+* From a visual standpoint, perhaps some additonal color formatting would make the entire site more visually appealing. From a data standpoint, 
