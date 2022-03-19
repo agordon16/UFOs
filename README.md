@@ -15,6 +15,7 @@ Or even multiple filters
 ![multiple](https://github.com/agordon16/UFOs/blob/3dd617ba8fbae0966d8d8559c9b9bf517dc12329/Resources/Images/MultipleSearchCriteria.png)
 
 
+These options provide the user many ways to search for specific UFO sitings among the large amount of data available.
 
 ## Summary
 While the current site is quite interactive, it could benefit from some additional development.  To initiate a new search, the user must currently clear out all the input fields. This means potentially multiple clicks by the user to get to a clean form. 
